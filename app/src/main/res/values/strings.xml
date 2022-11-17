@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Facts &amp; Paws</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZW5kdXJpYW4iLCJhIjoiY2xha2R3aXkzMDJtZzNvbzlqNzk2MXl1aSJ9.-xlb1hRCDZ5Fi4ppQpoaRQ</string>
 </resources>

@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private String txtPass, txtUsuario;
     private EditText tvUsuario, tvPass;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         setTheme(R.style.SplashTheme);
@@ -27,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        boton_sig = findViewById(R.id.button3);
+        boton_sig = findViewById(R.id.btnLogin);
 
         try {
             Bundle datos = MainActivity.this.getIntent().getExtras();
@@ -63,6 +64,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent (this, createaccountactivity.class);
         startActivity(intent);
     }
+
+
 
 
 }

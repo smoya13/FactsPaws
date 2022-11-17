@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/stgom/AndroidStudioProjects/kiki/app/src/main/res/layout/activity_gyroscope.xml" value="0.18984375" />
+        <entry key="..\:/Users/stgom/AndroidStudioProjects/kiki/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/stgom/AndroidStudioProjects/kiki/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/stgom/AndroidStudioProjects/kiki/app/src/main/res/layout/gyroscope_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/stgom/AndroidStudioProjects/kiki/app/src/main/res/layout/mapview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/stgom/AndroidStudioProjects/kiki/app/src/main/res/layout/relacionar.xml" value="0.253125" />
         <entry key="..\:/Users/stgom/Desktop/FactsPaws/app/src/main/res/drawable/activity_splash.xml" value="0.209" />
         <entry key="..\:/Users/stgom/Desktop/FactsPaws/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1435" />
         <entry key="..\:/Users/stgom/Desktop/FactsPaws/app/src/main/res/drawable/splash_pata.xml" value="0.387" />
